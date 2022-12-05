@@ -1,0 +1,17 @@
+b) PA0
+c) P8 (modra), pc 9(zelena)
+d) HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_9);
+HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_8);
+HAL_Delay(500);
+
+
+PINOUT:
+![image](https://user-images.githubusercontent.com/97598727/205743712-4fbb5a83-954b-4af2-bc4e-262e8226f759.png)
+
+VIDEO:
+
+
+
+https://user-images.githubusercontent.com/97598727/205744312-bc1e4d9d-f696-4b14-b55e-265aa7b0dfaf.MOV
+
+KODA
